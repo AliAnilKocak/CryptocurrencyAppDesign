@@ -1,16 +1,12 @@
-# cryptocurrencyAppDesign
+# CryptocurrencyAppDesign
 
-A new Flutter project.
+Building a Cryptocurrency App Design
 
-## Getting Started
+![ss](https://i.ibb.co/t4qLcS2/c0c6eaab8b5f8095f8767c67a9e9c352.png)
 
-This project is a starting point for a Flutter application.
+# Design
 
-A few resources to get you started if this is your first Flutter project:
+Cryptocurrency application
+by  Alex Arutuynov 🤘 for Orizon
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://dribbble.com/shots/10568490-Cryptocurrency-application
